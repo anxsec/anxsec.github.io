@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://anxsec.github.io/"/>
-  <updated>2017-05-14T03:29:29.000Z</updated>
+  <updated>2017-05-14T06:59:42.000Z</updated>
   <id>https://anxsec.github.io/</id>
   
   <author>
@@ -16,11 +16,57 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>flex布局</title>
+    <link href="https://anxsec.github.io/2017/05/14/CSS/flex/"/>
+    <id>https://anxsec.github.io/2017/05/14/CSS/flex/</id>
+    <published>2017-05-14T06:57:55.000Z</published>
+    <updated>2017-05-14T06:59:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><p><a href="https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb" rel="external nofollow noopener noreferrer" target="_blank">点击查看 - 一劳永逸的搞定 flex 布局</a><br><a href="http://yoksel.github.io/flex-cheatsheet/" rel="external nofollow noopener noreferrer" target="_blank">点击查看 - flex示例</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb&quot; rel=&quot;externa
+    
+    </summary>
+    
+      <category term="CSS" scheme="https://anxsec.github.io/categories/CSS/"/>
+    
+    
+      <category term="CSS" scheme="https://anxsec.github.io/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS的居中</title>
+    <link href="https://anxsec.github.io/2017/05/14/CSS/css-center/"/>
+    <id>https://anxsec.github.io/2017/05/14/CSS/css-center/</id>
+    <published>2017-05-14T06:05:03.000Z</published>
+    <updated>2017-05-14T06:14:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="使用table"><a href="#使用table" class="headerlink" title="使用table"></a>使用table</h2><p>过去使用table进行布局的时候可以通过<code>align</code>和<code>valign</code>进行水平和垂直居中, 但是随着web语义化这种方法已经不常用了。</p>
+<h2 id="水平居中"><a href="#水平居中" class="headerlink" title="水平居中"></a>水平居中</h2><h2 id="垂直居中"><a href="#垂直居中" class="headerlink" title="垂直居中"></a>垂直居中</h2><h2 id="水平垂直居中"><a href="#水平垂直居中" class="headerlink" title="水平垂直居中"></a>水平垂直居中</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;使用table&quot;&gt;&lt;a href=&quot;#使用table&quot; class=&quot;headerlink&quot; title=&quot;使用table&quot;&gt;&lt;/a&gt;使用table&lt;/h2&gt;&lt;p&gt;过去使用table进行布局的时候可以通过&lt;code&gt;align&lt;/code&gt;和&lt;code&gt;valig
+    
+    </summary>
+    
+      <category term="CSS" scheme="https://anxsec.github.io/categories/CSS/"/>
+    
+    
+      <category term="untagged" scheme="https://anxsec.github.io/tags/untagged/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CSS overflow 属性</title>
     <link href="https://anxsec.github.io/2017/05/14/CSS/overflow/"/>
     <id>https://anxsec.github.io/2017/05/14/CSS/overflow/</id>
     <published>2017-05-14T03:05:21.000Z</published>
-    <updated>2017-05-14T03:29:29.000Z</updated>
+    <updated>2017-05-14T06:58:27.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><p><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/overflow" rel="external nofollow noopener noreferrer" target="_blank">点击查看MDN描述</a></p>
 <h2 id="注意点"><a href="#注意点" class="headerlink" title="注意点"></a>注意点</h2><ol>
@@ -42,7 +88,7 @@
       <category term="CSS" scheme="https://anxsec.github.io/categories/CSS/"/>
     
     
-      <category term="css" scheme="https://anxsec.github.io/tags/css/"/>
+      <category term="CSS" scheme="https://anxsec.github.io/tags/CSS/"/>
     
   </entry>
   
