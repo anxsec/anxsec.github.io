@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://anxsec.github.io/"/>
-  <updated>2017-05-13T10:48:58.000Z</updated>
+  <updated>2017-05-14T02:47:44.000Z</updated>
   <id>https://anxsec.github.io/</id>
   
   <author>
@@ -16,29 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://anxsec.github.io/2017/05/12/hello-world/"/>
-    <id>https://anxsec.github.io/2017/05/12/hello-world/</id>
-    <published>2017-05-12T15:07:25.000Z</published>
-    <updated>2017-05-13T10:48:58.000Z</updated>
+    <title>CSS计数器</title>
+    <link href="https://anxsec.github.io/2017/05/14/CSS/css-counters/"/>
+    <id>https://anxsec.github.io/2017/05/14/CSS/css-counters/</id>
+    <published>2017-05-14T01:42:38.000Z</published>
+    <updated>2017-05-14T02:47:44.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" rel="external nofollow noopener noreferrer" target="_blank">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" rel="external nofollow noopener noreferrer" target="_blank">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" rel="external nofollow noopener noreferrer" target="_blank">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" rel="external nofollow noopener noreferrer" target="_blank">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" rel="external nofollow noopener noreferrer" target="_blank">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" rel="external nofollow noopener noreferrer" target="_blank">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" rel="external nofollow noopener noreferrer" target="_blank">Deployment</a></p>
+    <content type="html"><![CDATA[<h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><p><a href="http://caniuse.com/#feat=css-counters" rel="external nofollow noopener noreferrer" target="_blank">点击查看浏览器兼容性</a></p>
+<h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><p><a href="https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters" rel="external nofollow noopener noreferrer" target="_blank">点击查看MDN对CSS计数器的详细介绍</a></p>
+<h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><p>简单用法：</p>
+<p></p><p data-height="265" data-theme-id="dark" data-slug-hash="vmjMKm" data-default-tab="css,result" data-user="anxsec" data-embed-version="2" data-pen-title="css-counters-demo-1" class="codepen">See the Pen <a href="https://codepen.io/anxsec/pen/vmjMKm/" rel="external nofollow noopener noreferrer" target="_blank">css-counters-demo-1</a> by Anx (<a href="http://codepen.io/anxsec" rel="external nofollow noopener noreferrer" target="_blank">@anxsec</a>) on <a href="http://codepen.io" rel="external nofollow noopener noreferrer" target="_blank">CodePen</a>.</p><p></p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>嵌套用法：</p>
+<p></p><p data-height="265" data-theme-id="dark" data-slug-hash="OmZGbQ" data-default-tab="html,result" data-user="anxsec" data-embed-version="2" data-pen-title="css-counters-demo-2" class="codepen">See the Pen <a href="https://codepen.io/anxsec/pen/OmZGbQ/" rel="external nofollow noopener noreferrer" target="_blank">css-counters-demo-2</a> by Anx (<a href="http://codepen.io/anxsec" rel="external nofollow noopener noreferrer" target="_blank">@anxsec</a>) on <a href="http://codepen.io" rel="external nofollow noopener noreferrer" target="_blank">CodePen</a>.</p><p></p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.
+      &lt;h2 id=&quot;兼容性&quot;&gt;&lt;a href=&quot;#兼容性&quot; class=&quot;headerlink&quot; title=&quot;兼容性&quot;&gt;&lt;/a&gt;兼容性&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://caniuse.com/#feat=css-counters&quot; rel=&quot;external nofo
     
     </summary>
     
+      <category term="CSS" scheme="https://anxsec.github.io/categories/CSS/"/>
+    
+    
+      <category term="CSS" scheme="https://anxsec.github.io/tags/CSS/"/>
     
   </entry>
   
