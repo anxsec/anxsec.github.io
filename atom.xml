@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://anxsec.github.io/"/>
-  <updated>2017-05-14T06:59:42.000Z</updated>
+  <updated>2017-05-17T02:56:38.000Z</updated>
   <id>https://anxsec.github.io/</id>
   
   <author>
@@ -14,6 +14,87 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML中Label标签</title>
+    <link href="https://anxsec.github.io/2017/05/17/HTML/label/"/>
+    <id>https://anxsec.github.io/2017/05/17/HTML/label/</id>
+    <published>2017-05-17T02:44:36.000Z</published>
+    <updated>2017-05-17T02:56:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h2><p><a href="https://www.w3schools.com/tags/tag_label.asp" rel="external nofollow noopener noreferrer" target="_blank">HTML <label> Tag</label></a></p>
+<h2 id="注意点"><a href="#注意点" class="headerlink" title="注意点"></a>注意点</h2><ol>
+<li>点击会触发<code>for</code>属性关联的<code>input</code>的点击事件: <a href="http://stackoverflow.com/questions/18432376/what-does-for-attribute-do-in-html-label-tag" rel="external nofollow noopener noreferrer" target="_blank">What does “for” attribute do in HTML <label> tag?</label></a></li>
+<li><a href="http://stackoverflow.com/questions/774054/should-i-put-input-tags-inside-a-label-tag" rel="external nofollow noopener noreferrer" target="_blank">Should I put input tags inside a label tag?</a></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.w3schools.com/tags/tag_label.asp&quot; rel=&quot;external n
+    
+    </summary>
+    
+      <category term="HTML" scheme="https://anxsec.github.io/categories/HTML/"/>
+    
+    
+      <category term="HTML" scheme="https://anxsec.github.io/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>重启后tmux恢复session</title>
+    <link href="https://anxsec.github.io/2017/05/17/Unix/tmux/session-resurrect/"/>
+    <id>https://anxsec.github.io/2017/05/17/Unix/tmux/session-resurrect/</id>
+    <published>2017-05-17T02:41:17.000Z</published>
+    <updated>2017-05-17T02:43:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://superuser.com/questions/440015/restore-tmux-session-after-reboot" rel="external nofollow noopener noreferrer" target="_blank">这一篇讲了基本原理</a><br><a href="https://github.com/tmux-plugins/tmux-resurrect" rel="external nofollow noopener noreferrer" target="_blank">这里是一个插件实现</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://superuser.com/questions/440015/restore-tmux-session-a
+    
+    </summary>
+    
+      <category term="Unix" scheme="https://anxsec.github.io/categories/Unix/"/>
+    
+      <category term="tmux" scheme="https://anxsec.github.io/categories/Unix/tmux/"/>
+    
+    
+      <category term="Shell" scheme="https://anxsec.github.io/tags/Shell/"/>
+    
+      <category term="Tmux" scheme="https://anxsec.github.io/tags/Tmux/"/>
+    
+      <category term="MacOS" scheme="https://anxsec.github.io/tags/MacOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Javascript垃圾回收</title>
+    <link href="https://anxsec.github.io/2017/05/16/JavaScript/v8-gc/"/>
+    <id>https://anxsec.github.io/2017/05/16/JavaScript/v8-gc/</id>
+    <published>2017-05-16T03:19:43.000Z</published>
+    <updated>2017-05-16T03:43:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Google-V8-中的垃圾回收"><a href="#Google-V8-中的垃圾回收" class="headerlink" title="Google V8 中的垃圾回收"></a>Google V8 中的垃圾回收</h2><h3 id="描述"><a href="#描述" class="headerlink" title="描述"></a>描述</h3><p><a href="https://segmentfault.com/a/1190000000440270" rel="external nofollow noopener noreferrer" target="_blank">浅谈V8引擎中的垃圾回收机制 - 讲的比较详细</a></p>
+<p><a href="http://www.infoq.com/cn/news/2015/08/Google-V8" rel="external nofollow noopener noreferrer" target="_blank">Google V8的垃圾回收引擎 - 讲的比较概括</a></p>
+<p><a href="https://github.com/timqian/my-notes/issues/68" rel="external nofollow noopener noreferrer" target="_blank">V8 内存管理机制及垃圾回收 - 涉及了内存管理和内存泄漏</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Google-V8-中的垃圾回收&quot;&gt;&lt;a href=&quot;#Google-V8-中的垃圾回收&quot; class=&quot;headerlink&quot; title=&quot;Google V8 中的垃圾回收&quot;&gt;&lt;/a&gt;Google V8 中的垃圾回收&lt;/h2&gt;&lt;h3 id=&quot;描述&quot;&gt;&lt;a hr
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://anxsec.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://anxsec.github.io/tags/JavaScript/"/>
+    
+  </entry>
   
   <entry>
     <title>flex布局</title>
