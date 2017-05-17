@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://anxsec.github.io/"/>
-  <updated>2017-05-17T02:56:38.000Z</updated>
+  <updated>2017-05-17T03:08:04.000Z</updated>
   <id>https://anxsec.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git基本配置</title>
+    <link href="https://anxsec.github.io/2017/05/17/Git/setup/"/>
+    <id>https://anxsec.github.io/2017/05/17/Git/setup/</id>
+    <published>2017-05-17T03:06:17.000Z</published>
+    <updated>2017-05-17T03:08:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://help.github.com/articles/setting-your-email-in-git/" rel="external nofollow noopener noreferrer" target="_blank">设置邮箱</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://help.github.com/articles/setting-your-email-in-git/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;设置邮箱&lt;/a
+    
+    </summary>
+    
+      <category term="Git" scheme="https://anxsec.github.io/categories/Git/"/>
+    
+    
+      <category term="untagged" scheme="https://anxsec.github.io/tags/untagged/"/>
+    
+  </entry>
   
   <entry>
     <title>HTML中Label标签</title>
